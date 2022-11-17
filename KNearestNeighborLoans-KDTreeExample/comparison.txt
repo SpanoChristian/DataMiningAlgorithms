@@ -1,0 +1,6 @@
+Comparison of computation time required by k-nearest-neighbor using kd-trees
+vs brute force
+
+kd-tree			t=11.163	Accuracy=0.806	Std=0.001
+brute force		t=567.895	Accuracy=0.806	Std=0.001
+

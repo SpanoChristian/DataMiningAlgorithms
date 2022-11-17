@@ -1,0 +1,7 @@
+Check all the available experiments and examples at
+
+  http://www.philippe-fournier-viger.com/spmf/documentation.php#examplePrefixSpan
+
+- Apply GSP
+
+  java -jar spmf.jar run GSP test_files/contextPrefixSpan.txt output_gsp.txt 50%
